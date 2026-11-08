@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Herramientas
+.ruff_cache/
+
+# Datos personales exportados (rutas locales y metadatos de la biblioteca)
+biblioteca.csv
+*.sqlite3
